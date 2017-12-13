@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "197338814945",
+    "firebase_url": "https://testproject-d2cb5.firebaseio.com",
+    "project_id": "testproject-d2cb5",
+    "storage_bucket": "testproject-d2cb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197338814945:android:bfe762bfc1982427",
+        "android_client_info": {
+          "package_name": "ipca.game.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197338814945-n1blu671gsb4ur3m6iss3iakeni86dnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAywWeZAB-y-mUwjzhdL8FncWRWXNNfNDk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
